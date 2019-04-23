@@ -1,6 +1,6 @@
 ﻿/**
- * @license Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- * For licensing, see LICENSE.md or http://ckeditor.com/license
+ * @license Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md or https://ckeditor.com/license
  */
 
 /**
@@ -10,13 +10,13 @@
  * If you would like to build CKEditor online again
  * (for example to upgrade), visit one the following links:
  *
- * (1) http://ckeditor.com/builder
+ * (1) https://ckeditor.com/cke4/builder
  *     Visit online builder to build CKEditor from scratch.
  *
- * (2) http://ckeditor.com/builder/4fa403e65c4d7c608556d63831753a6d
+ * (2) https://ckeditor.com/cke4/builder/7606a91613d628df02829ad35319cf1c
  *     Visit online builder to build CKEditor, starting with the same setup as before.
  *
- * (3) http://ckeditor.com/builder/download/4fa403e65c4d7c608556d63831753a6d
+ * (3) https://ckeditor.com/cke4/builder/download/7606a91613d628df02829ad35319cf1c
  *     Straight download link to the latest version of CKEditor (Optimized) with the same setup as before.
  *
  * NOTE:
@@ -38,6 +38,7 @@ var CKBUILDER_CONFIG = {
 		'.jshintignore',
 		'.jshintrc',
 		'.mailmap',
+		'.npm',
 		'.travis.yml',
 		'bender-err.log',
 		'bender-out.log',
@@ -53,7 +54,7 @@ var CKBUILDER_CONFIG = {
 	plugins : {
 		'a11yhelp' : 1,
 		'about' : 1,
-		'autogrow': 1,
+		'autogrow' : 1,
 		'basicstyles' : 1,
 		'bidi' : 1,
 		'blockquote' : 1,
@@ -79,7 +80,7 @@ var CKBUILDER_CONFIG = {
 		'htmlwriter' : 1,
 		'iframe' : 1,
 		'image' : 1,
-		'imagepaste': 1,
+		'imagepaste' : 1,
 		'imageresize' : 1,
 		'indentblock' : 1,
 		'indentlist' : 1,
@@ -112,7 +113,7 @@ var CKBUILDER_CONFIG = {
 		'stylescombo' : 1,
 		'tab' : 1,
 		'table' : 1,
-		'tableresize': 1,
+		'tableresize' : 1,
 		'tableselection' : 1,
 		'tabletools' : 1,
 		'templates' : 1,
@@ -121,7 +122,7 @@ var CKBUILDER_CONFIG = {
 		'uploadimage' : 1,
 		'wordcount' : 1,
 		'wsc' : 1,
-		'wysiwygarea' : 1,
+		'wysiwygarea' : 1
 	},
 	languages : {
 		'af' : 1,
