@@ -93,6 +93,7 @@ var CKBUILDER_CONFIG = {
 		'maximize' : 1,
 		'newpage' : 1,
 		'pagebreak' : 1,
+		'chromehelper' : 1,
 		'pasteFromGoogleDoc' : 1,
 		'pastefromexcel' : 1,
 		'pastefromword' : 1,
